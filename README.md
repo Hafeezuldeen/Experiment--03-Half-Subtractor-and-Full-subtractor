@@ -3,7 +3,7 @@
 # Experiment--04-Half-Subtractor-and-Full-subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
-To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
+To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming. 
 
 ## Equipments Required:
 ## Hardware – PCs, Cyclone II , USB flasher 
